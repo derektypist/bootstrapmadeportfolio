@@ -61,7 +61,7 @@ function setLinkedInYears() {
 setInterval(setFCCPoints, 1000);
 function setFCCPoints() {
 	try {
-		$('#fccpoints').html(`${(11793).toLocaleString("en-GB")}`);
+		$('#fccpoints').html(`${(13989).toLocaleString("en-GB")}`);
 	} catch {
 
 	}
